@@ -1,0 +1,5 @@
+﻿  BankSystem.cpp
+C:\Users\Rob\OneDrive - Wayne State University\CSC  2110\Homeworks\rob_kokochak_project\BankSystem.cpp(208,20): warning C4018: '<': signed/unsigned mismatch
+  CheckingAccount.cpp
+  Generating Code...
+  rob_kokochak_project.vcxproj -> C:\Users\Rob\OneDrive - Wayne State University\CSC  2110\Homeworks\rob_kokochak_project\Debug\rob_kokochak_project.exe
